@@ -1,0 +1,16 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Lenovo Energy Manager
+Comment=Management widget for Lenovo IdeaPad 5 14ARE05 laptops
+Icon=lenovo_energy
+Type=Service
+
+X-KDE-PluginInfo-Author=Theorlangur
+X-KDE-PluginInfo-Email=theorlangur@gmail.com
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-Name=com.theor.ideapad5_14are05_energy
+X-KDE-PluginInfo-Version=1.0
+X-KDE-ServiceTypes=Plasma/Applet
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+X-KDE-PluginInfo-Category=Utilities
