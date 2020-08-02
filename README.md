@@ -19,7 +19,7 @@ for the correct functioning the plasmoid requires a ideapad5\_14are05 energy man
      ```
    * install only for the current user (in $HOME/.local/...)
      ```
-     cmake -H. -Bbuild -DCMAKE\_INSTALL\_PREFIX=~/.local
+     cmake -H. -Bbuild -DCMAKE_INSTALL_PREFIX=~/.local
      ```
 * Installing
    * default configured
