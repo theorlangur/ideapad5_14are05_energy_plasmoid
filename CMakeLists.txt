@@ -19,7 +19,7 @@ find_package(KF5Plasma REQUIRED)
 add_subdirectory(icons)
 
 # Add installatation target ("make install").
-plasma_install_package(plasmoid com.theor.lenovo_energy_mgr)
+plasma_install_package(plasmoid com.theor.ideapad5_14are05_energy)
 
 # uninstall target
 if(NOT TARGET uninstall)
