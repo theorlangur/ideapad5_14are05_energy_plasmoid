@@ -147,7 +147,7 @@ Plasmoid.fullRepresentation: RowLayout {
 
     Timer {
         interval: 800
-        running: fullRep.visible
+        running: plasmoid.expanded
         repeat: true
         onTriggered: updateStates()
     }
